@@ -1,0 +1,25 @@
+.foot{
+    background-color: grey;
+    justify-content: space-between;
+        background: #333;
+    position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}
+.foot_a{
+
+    
+}
+.foot_nav{
+    padding-top: 20px;
+     display:block; 
+      margin: 2px 0 0;
+    -webkit-column-count: 3;
+    column-count: 3;
+    list-style: none;
+
+    
+
+    
+}

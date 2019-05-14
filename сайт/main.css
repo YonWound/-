@@ -1,0 +1,70 @@
+.nav_menu{
+    display: flex;
+    justify-content: center;
+       width: 100%;
+
+    
+}
+.logo{
+    
+    margin-left:  2rem;
+}
+.kat{
+    margin-left:  2rem;
+
+}
+.search_area{
+    margin-left:  2rem;
+
+}
+.razm{
+    margin-left:  2rem;
+    border-bottom-color: firebrick; 
+    
+}
+.block{
+     
+    height:200px;
+    width: 310px;
+    
+    
+}
+
+.sec-1{
+    margin-top: 3rem;
+    width: 100%;
+
+
+}  
+body{
+    
+    background-color:white;
+  
+}
+.fix-con{
+    width: 1200px;
+    margin: 0 auto;
+    position: relative;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+}
+.nedvish{
+  
+    
+}
+.eshe{
+    color:grey;
+   
+    
+}
+a{
+    text-decoration: none;
+    color: black;
+  
+}
+li {
+    list-style-type: none; /* Убираем маркеры */
+   }

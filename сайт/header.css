@@ -1,0 +1,20 @@
+.nav_head {
+justify-content: flex-end;
+display: flex;
+         border-bottom: 1px;
+    border-bottom-color: black;
+    border-bottom-style: groove;
+     padding-bottom: 1px;
+
+  
+
+}
+nav a{
+    margin-left:  5.7rem;
+    text-decoration: none;
+    color: black;
+}
+.main{
+text-decoration: none;
+}
+
